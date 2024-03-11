@@ -1,4 +1,5 @@
 Telecom Customer Churn Analysis Project
+
 Abstract
 This project aims to analyze customer churn in the context of a telecom service-based company. The primary objective is to identify the key factors that contribute to customer churn and create a predictive model to anticipate churn events. 
 The analysis involves several stages, including data preprocessing, exploratory data analysis, feature engineering, model development, and evaluation. The dataset encompasses various customer attributes, such as
